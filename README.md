@@ -1,6 +1,6 @@
-👋 Hi, I’m @codeXdhruvXdeveloper- Suryansh NIranjan
+👋 Hi, I’m @codexloner- Suryansh NIranjan
 👀 I’m interested in programming
-🌱 I’m currently learning java , c , php , frontend developer, .net, database
+🌱 I’m currently learning java , kotlin, go
 📫 contact no only on whatsapp- 9412341193
 😄 Pronouns: He/Him
 currently doing bachelors
